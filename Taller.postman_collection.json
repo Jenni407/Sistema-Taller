@@ -1,0 +1,266 @@
+{
+	"info": {
+		"_postman_id": "17acb6e1-db5e-48b3-9901-d6cdb942a7d9",
+		"name": "Taller",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "44403522"
+	},
+	"item": [
+		{
+			"name": "Clientes",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7089/api/clientes",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7089",
+					"path": [
+						"api",
+						"clientes"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Facturas",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7089/api/facturas",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7089",
+					"path": [
+						"api",
+						"facturas"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Mécanicos",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7089/api/mecanicos",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7089",
+					"path": [
+						"api",
+						"mecanicos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Repuestos",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7089/api/repuestos",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7089",
+					"path": [
+						"api",
+						"repuestos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Servicios",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7089/api/servicios",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7089",
+					"path": [
+						"api",
+						"servicios"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Datos del Taller",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7089/api/taller",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7089",
+					"path": [
+						"api",
+						"taller"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Turnos",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7089/api/turnos",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7089",
+					"path": [
+						"api",
+						"turnos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Vehículos",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7089/api/vehiculos",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7089",
+					"path": [
+						"api",
+						"vehiculos"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

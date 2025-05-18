@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\Desktop\\Parcial-Progra\\Taller\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA46B09-14AF-4D9B-A5E8-8A5EFBF7E7CB}|Taller\\Taller.csproj|c:\\users\\administrador\\desktop\\parcial-progra\\taller\\taller\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA46B09-14AF-4D9B-A5E8-8A5EFBF7E7CB}|Taller\\Taller.csproj|solutionrelative:taller\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FacturaController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\Parcial-Progra\\Taller\\Taller\\Controllers\\FacturaController.cs",
+              "RelativeDocumentMoniker": "Taller\\Controllers\\FacturaController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\Parcial-Progra\\Taller\\Taller\\Controllers\\FacturaController.cs",
+              "RelativeToolTip": "Taller\\Controllers\\FacturaController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBAAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T02:57:37.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
